@@ -139,8 +139,11 @@ footer ul {
 }
 
 @media screen and (max-width: 425px) {
+  .jumbotron {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 50vh;
+    
+  }
 }
-@media screen and (max-width: 768px) {
-}
-@media screen and (max-width: 1024px) {
-}
+
