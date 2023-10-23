@@ -65,10 +65,10 @@ a {
   display: flex;
   align-items: center;
   background-image: url('/img/background.png');
-  background-size: cover;
 
+height: 80vh;
   color: #ffffff;
-  height: 400px;
+  height: 70vh;
 }
 
 .jumbotron h2 {
@@ -138,3 +138,6 @@ footer ul {
   list-style: none;
 }
 
+@media screen and (max-width: 425px) {}
+@media screen and (max-width: 768px) {}
+@media screen and (max-width: 1024px) {}
