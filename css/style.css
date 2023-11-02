@@ -3,6 +3,7 @@
 body {
   font-family: 'Libre Baskerville', sans-serif;
   background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  background-color: #000;
 }
 
 header {
